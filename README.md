@@ -18,11 +18,8 @@ This C++ program is designed to automate the cargo-truck assignment process for 
 ## Usage
 
 ### Running the Simulation
-To start the simulation, run the executable from the command line:
-```bash
-./shipping_simulation
-```
-Follow the prompts to select the operation mode:
+1- Run the project
+2- Follow the prompts to select the operation mode:
 1. **Interactive Mode**: Step through the simulation hour-by-hour with user interaction.
 2. **Step-by-Step Mode**: Automatically progresses every second.
 3. **Silent Mode**: Runs the simulation to completion without interaction, generating an output file.
