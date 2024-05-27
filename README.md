@@ -33,6 +33,9 @@ Input files should be detailing trucks, cargos, and events.
 ### Output Files
 Output files will contain detailed logs of cargo deliveries and system-generated statistics.
 
+### Demo Video
+![demo video](assets/demo_video.gif)
+
 ## Contributers
 - Nada Alfowey
 - Aly Reda
